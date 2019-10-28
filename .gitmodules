@@ -1,3 +1,3 @@
 [submodule "submodules/trezor-common"]
 	path = submodules/trezor-common
-	url = http://github.com/wakiyamap/trezor-common
+	url = https://github.com/wakiyamap/trezor-common.git
